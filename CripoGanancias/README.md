@@ -8,6 +8,9 @@ moneda introduciendo el precio de la compra y te ira mostrando tus ganancias o p
 respecto al valor actual. En caso de vender la moneda solo con hacer click sobre ella y aceptar
 pasara a tu historial de compras y veras cuanto beneficio has conseguido sacar con ella
 
+Ejemplos funcionamiento:
+---
+
 <p align="center">
   <img src="https://github.com/lugman/Proyectos-DAW/blob/main/CripoGanancias/Principal.png" width="400px" >
    <img src="https://github.com/lugman/Proyectos-DAW/blob/main/CripoGanancias/mis%20compras.png" width="400px">
