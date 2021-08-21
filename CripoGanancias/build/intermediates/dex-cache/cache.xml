@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Lugman\.android\build-cache\ff915e56b06644b687ddfdb2e1f0aa6311eaae3d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.1"
+        sha1="a5fa2e3704f51b30b7b47e12a3a2909728799583">
+        <dex dex="C:\Users\Lugman\Desktop\Android_studio_proyectos\FinalDawFinal\app\build\intermediates\pre-dexed\debug\classes_72d645cb967cafe5f6f95175ce044f451b4149eb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Lugman\.android\build-cache\7302659983dd16d17e70a1c628fccaed7b9c47d0\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.1"
+        sha1="987adec819c9a98faf215814f41195da48fc724e">
+        <dex dex="C:\Users\Lugman\Desktop\Android_studio_proyectos\FinalDawFinal\app\build\intermediates\pre-dexed\debug\classes_c20cb84ef8c0564e7d62b3bff684171abeae0e99.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Lugman\.android\build-cache\1d8c5b538ab89f534f9034b8bf412eec0f626ac7\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.1"
+        sha1="9296d6f092fcdba4fafb6ac26546a39babdab46a">
+        <dex dex="C:\Users\Lugman\Desktop\Android_studio_proyectos\FinalDawFinal\app\build\intermediates\pre-dexed\debug\classes_f3e624e40ce1b49e0b42fbe4a0b0eab1cc5b0347.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Lugman\.android\build-cache\7fff3037d768af1b3b6b4fc629de8986b6cef9cb\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.1"
+        sha1="031cc16b7b6e77b3c050134ecab9fa5c2640a069">
+        <dex dex="C:\Users\Lugman\Desktop\Android_studio_proyectos\FinalDawFinal\app\build\intermediates\pre-dexed\debug\classes_532874dd7f402f294f0575824f4016c3b9d73b74.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Lugman\.android\build-cache\5fb1d2aa6226fec87b3347134af457b61f06956d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.1"
+        sha1="bcd0bcdef85b31a656af76e39c0c95ce70800772">
+        <dex dex="C:\Users\Lugman\Desktop\Android_studio_proyectos\FinalDawFinal\app\build\intermediates\pre-dexed\debug\classes_3b968c8a9cb84b90684535fc64432a5cc6238a73.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Lugman\.android\build-cache\e8c4a3c839f628a1c55659ab042097bc3168359b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.1"
+        sha1="25c8cb628374f9a2d59ff9e1172753751e9a9f84">
+        <dex dex="C:\Users\Lugman\Desktop\Android_studio_proyectos\FinalDawFinal\app\build\intermediates\pre-dexed\debug\classes_9c4b18d2cc00cdcc33a62db32facdb224342404c.jar" />
+    </item>
+
+</items>

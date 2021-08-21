@@ -1,0 +1,107 @@
+#ContForm{
+  padding: 30px;
+  text-align: center;
+}
+#ContForm label{
+font-size: 1em;
+font-weight: bold;
+margin-top: 5px;
+}
+.close{
+  position: absolute;
+  top: 5px;
+  right: 10px;
+}
+#ContForm input,#ContForm select {
+width: 80%;
+text-align: center;
+margin: auto;
+}
+ option{
+  text-align: center;
+}
+#ContForm input[type="checkbox"]{
+width: auto;
+margin: auto;
+}
+#ContForm  .bott{
+  display: inline-block;
+
+}
+#ContForm input[type="submit"]{
+width: 150px;
+font-size: 1em;
+font-weight: bold;
+display: inline-block;
+}
+#ContForm input[type="button"]{
+width: 110px;
+font-size: 1em;
+font-weight: bold;
+color:rgb(28, 28, 28) ;
+margin: auto;
+display: inline-block;
+}
+.botones{
+  margin-top: 10px;
+}
+.Fcrear{
+  width: 80px;
+  border-radius: 40px;
+}
+.cabForm{
+  width: 70%;
+  padding: 15px;
+  margin: auto;
+}
+.botonVerde{
+  border: 1px solid rgb(171, 215, 184);
+  background-color: rgb(95, 250, 157);
+}
+.botonRojo{
+  border: 1px solid rgb(255, 159, 156);
+  background-color: rgb(254, 217, 86);
+}
+.fondoM{
+  background-color: rgb(227, 242, 251);
+}
+.mTyB{
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+/* Registrarse */
+
+.SingIn{
+  background-color: rgb(213, 213, 213);
+  width: 400px;
+  padding: 20px;
+  left:200px;
+  border-top: 0px;
+}
+
+
+.cuerpo-reg{
+  padding-top: 30px;
+}
+.cuerpo-reg>div>div {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  margin-top: 40px;
+  margin-bottom:  40px;
+
+}
+.emailR{
+  background-color: rgb(53, 121, 0);
+  width:240px;
+  font-size: 1.3em;
+  font-size: bold;
+  cursor: pointer;
+  padding: 20px;
+  border-radius: 3px;
+}
+.emailR:hover{
+  background-color: rgb(131, 240, 132);
+}

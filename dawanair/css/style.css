@@ -1,0 +1,179 @@
+:root {
+  --Principal: #004e7f;
+  --Principal2: #002a44;
+  --Secundario:rgb(224, 249, 255);
+  --Secundario2:rgb(201, 240, 250);
+}
+*{
+  margin: 0px;
+  color: rgb(0, 0, 0);
+  padding: 0px;
+}
+body{
+  font-family: 'Quicksand', sans-serif;
+  margin: 0px;
+  background-color: var(--Secundario);
+  padding: 0px;
+}
+li,ul,h1,h2,h3,h4,h5,h6,a{
+  color: rgb(0, 0, 0);
+}
+
+/*Cabecera*/
+
+#cabecera > nav{
+  background-color: var(--Principal);
+  color: rgb(0, 0, 1);
+  box-shadow: 1px 3px 14px 3px;
+}
+#cabecera a:hover{
+  color: rgb(170, 170, 170);
+}
+#cabecera #singIn{
+  color: rgb(237, 237, 237);
+  transition: all 0.2s;
+}
+#cabecera #singIn:hover{
+  opacity: 0.9;
+  transform: scale(1.05);
+}
+.logg{
+  margin-top: -15px;
+}
+/*------------Perfil------------*/
+#perfil{
+  left:-200px;
+  width: 300px;
+  margin-right:  20px;
+  padding-top: 0px;
+  margin: auto;
+}
+.cardA{
+  padding: 10px;
+
+}
+/*-----------------Vuelos-------------------*/
+.carruselContenedor{
+  background-color: var(--Secundario2);
+}
+.columna{
+  padding: 1.5% 3%;
+}
+.columna>*{
+  display: block;
+}
+.ObjViajes{
+  display: -webkit-flex;
+  display: -ms-flex;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+
+
+}
+.ObjViajes img{
+height: 200px;
+max-width: 100%;
+margin: 15px 0px;
+}
+#precio{
+  min-width: 80px;
+}
+#precio+a{
+font-weight: bold;
+margin-top: 10px;
+}
+/*---------------Footer-----------------*/
+#footer{
+  background-color:rgb(32, 32, 32);
+  margin: 0px;
+  bottom: 0px;
+  width: 100%;
+  padding-top: 15px;
+  margin-top: 10px;
+}
+#footer hr{
+   display: block;
+    height: 1px;
+    border: 0;
+    border-top: 1px solid rgb(255, 255, 255);
+    margin: 1em 0;
+    padding: 0;
+}
+#copyr *{
+  color: white;
+  padding: 10px;
+  background-color:black;
+}
+#footer *{
+color:   rgb(101, 101, 101);
+}
+.Fimages img{
+  height:80px;
+  margin-top: 5px;
+}
+
+.subFooter{
+  display: -webkit-flex;
+  display: -ms-flex;
+  display: flex;
+  justify-content: center;
+  margin-top: 10px;
+}
+.Ftitulo{
+  font-size: 1.2em;
+    font-family: 'Quicksand', sans-serif;
+}
+.Fcont{
+  font-size: 1.2em;
+}
+.Cc{
+  text-align: center;
+}
+.icF{
+  font-size: 1.2em;
+  color: rgb(255, 255, 255);
+  font-weight: bold;
+}
+.icF span{
+  margin-right: 8px;
+}
+.icF:parent{
+  list-style: none;
+}
+.Fli{
+  list-style: none;
+  text-align: left;
+  margin-left: 20%;
+  font-size: 0.75em;
+
+}
+.desaparecer{
+  visibility: hidden;
+}
+.todo0{
+  padding: 0px;
+  margin: 0px;
+}
+.Cw{
+  color:rgb(255, 255, 255);
+}
+.W100{
+  width: 100%;
+}
+.H100{
+  height: 100%;
+}
+.red{
+  color: red;
+}
+.red2 *{
+  color: red;
+}
+.Ff{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}

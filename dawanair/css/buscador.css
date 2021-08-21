@@ -1,0 +1,83 @@
+.ui-state-active{
+	background-color: var(--Principal2) !important;
+}
+.PadreBuscador{
+	background-image: url(../img/fondoBuscador.jpg);
+	background-position: center;
+	padding-top: 80px;
+	padding-bottom: 80px;
+	margin-top: 10px;
+}
+
+#ex1Slider .slider-selection {
+	background: rgb(34, 34, 34);
+}
+#contenedorBuscar{
+  width: 98%;
+
+	color: rgb(241, 241, 241);
+  margin-left:1%;
+	padding: 10px;
+	padding-top: 30px;
+	padding-bottom: 30px;
+  background-color: rgba(0,0,0,.65);
+
+}
+#numeroP{
+	width: 80px;
+
+}
+
+.idaYvuelta button{
+
+	border-radius: 0.4px;
+}
+#contenedorBuscar .row1{
+	margin-bottom: 10px;
+}
+#contenedorBuscar .slider{
+	width: 80%;
+}
+#contenedorBuscar .slider-track{
+	border-radius: 0.5px;
+
+}
+#contenedorBuscar .slider-handle{
+	width: 20px;
+	height: 15px;
+}
+#contenedorBuscar .round{
+	border-radius: 0px;
+}
+.busca{
+	width: 100%;
+    border-radius: 0px;
+    height: 100%
+}
+#contenedorBuscar * {
+	border-radius: 0px;
+}
+.barra {
+display: flex;
+justify-content: space-around;
+align-items: center;
+}
+.barra > div {
+display: flex;
+justify-content: space-around;
+}
+.barra input {
+width:160px;
+}
+#buscar{
+	cursor: pointer;
+	color: white;
+	font-weight: bold;
+	text-align: center;
+	background-color:rgba(43, 43, 43, 0.82) ;
+	border: 1px solid rgba(179, 179, 179, 0.25);
+	transition: all 0.5;
+}
+#buscar:hover{
+transform: scale(1.02);
+}

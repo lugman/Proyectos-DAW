@@ -1,0 +1,158 @@
+#Filtro{
+  margin-left: 10%;
+  margin-top: 20px;
+
+  width: 90%;
+}
+.strellas > div{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}.strellas > div img{
+  margin-top: 20px;
+}
+img[src="img/calendar.png"]{
+  cursor: pointer;
+}
+.mostraF2,.mostraF1{
+  background-color: white;
+  padding: 5px;
+}
+h6.fech{
+  background-color: rgb(128, 128, 128);
+  padding: 5px;
+}
+#filtrar > div{
+  margin-bottom: 30px;
+  border-bottom: 1px solid black;
+  padding-bottom: 20px;
+
+}
+#filtrar {
+  height: auto;
+background-color: rgba(91, 91, 91, 0.52);
+
+}
+.espacio{
+  margin-bottom: 20px;
+}
+#filtrar h6{
+  font-weight: bold;
+  text-align: center;
+
+}
+#resultado{
+  background-color:rgb(127, 190, 207);
+}
+#resultado >h1{
+    padding-top: 100px;
+}
+.filtros{
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: center;
+  vertical-align: middle;
+}
+.idas{
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: center;
+  flex-wrap: wrap;
+  align-items: flex-end;
+  height: 80px;
+}
+.b{
+
+}
+.ver{
+  background-color: rgb(168, 168, 168);
+  width: 70%;
+  margin: auto;
+  height: 23px;
+}
+.mosPre{
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: center;
+  text-align: center;
+}
+.centro{
+  width: 90%;
+  margin-left: 5%;
+  margin-top: 20px;
+}
+.viaje img{
+  height: 30px;
+  margin-bottom: 3px;
+  border-radius: 50px;
+  margin-left: 1%;
+}
+.viaje{
+  text-align: center;
+  padding: 20px;
+  background-color: rgba(171, 171, 171, 0.22);
+  border: 1px solid rgba(85, 85, 85, 0.85);
+  border-radius: 3px;
+  margin-top:15px;
+  margin-bottom:15px;
+}
+.viaje h2{
+  font-weight:bold;
+  border-radius: 2px;
+  background-color: rgba(179, 179, 179, 0.54);
+}.viaje h3{
+  font-weight:bold;
+  border-radius: 5%;
+  padding: 10%;
+  width: 90%;
+  background-color: rgba(223, 67, 0, 0.83);
+}
+.fecha{
+  display: -webkit-flex;
+  display: -ms-flex;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.fecha *{
+  font-size: 1.2em;
+  margin: 0px;
+
+}
+.compas {
+  border:1px solid black ;
+}
+.desc{
+  font-size: 0.6em;
+  font-weight: bold;
+}
+.hora{
+  display: -webkit-flex;
+  display: -ms-flex;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.tipo{
+
+  padding: 10px;
+  padding-left:  20px;
+  padding-right:   20px;
+  border-radius: 3px;
+  font-size: 1.2em;
+  font-weight: bold;
+  width: 100%;
+  margin-bottom: 20px;
+border-bottom: 1px solid  rgb(43, 43, 43);
+
+}
+.verM{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}

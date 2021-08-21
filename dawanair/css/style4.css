@@ -1,0 +1,26 @@
+.Tcarrito{
+  border-bottom: 2px dotted black;
+}
+#detalles{
+  padding: 20px;
+  padding-top: 40px;
+  background-color: #686363;
+  margin-left: 30px;
+  height: 400px;
+  width: 300px;
+  display: -webkit-flex;
+  display: -ms-flex;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+
+
+}
+.compraFinalizada{
+  position: fixed;
+  z-index: 999;
+  width: 70vw;
+  left: 15vw;
+  top: 150px;
+  transition: 2s;
+}

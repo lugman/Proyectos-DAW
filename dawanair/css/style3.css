@@ -1,0 +1,214 @@
+
+#ConTsillas{
+  padding: 20px;
+  display: -webkit-flex;
+  display: -ms-flex;
+  display: flex;
+  align-items: flex-start;
+}
+#conf{
+  align-self: flex-end;
+
+}
+#ConTsillas #central{
+  min-height: 200px;
+}
+.contenedor{
+  margin: auto;
+  width: %;
+  font-size: 40px;
+  font-family: fantasy;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+
+}
+
+.contenedor h2,.contButacas{
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  position: relative;
+  align-items: center;
+  flex-wrap: wrap;
+  overflow: hidden;
+
+  height: 400px;
+  width: 800px;
+}
+.contButacas img#fondo{
+  width: 1100px;
+  height: 100%;
+  transform: rotateY(180deg) translateX(150px);
+  position: absolute;
+  z-index: -2;
+}
+
+
+#uno{
+  width: 50px;
+top: 40px;
+left: 320px;
+position: absolute;
+height: 120px;
+}
+#uno li,#dos li{
+  margin-top: 16px;
+}
+#dos{
+  width: 50px;
+  top: 240px;
+
+left: 320px;
+position: absolute;
+height: 120px;
+}
+#tres{
+width: 280px;
+
+top: 45px;
+left: 460px;
+position: absolute;
+height: 35px;
+display: -webkit-flex;
+display: -ms-flex;
+display: flex;
+flex-direction: row;
+flex-wrap: wrap;
+
+}
+#cuatro{
+width: 280px;
+
+top: 90px;
+left: 460px;
+position: absolute;
+height: 35px;
+display: -webkit-flex;
+display: -ms-flex;
+display: flex;
+flex-direction: row;
+flex-wrap: wrap;
+
+}
+#cinco{
+width: 280px;
+
+top: 135px;
+left: 460px;
+position: absolute;
+height: 35px;
+display: -webkit-flex;
+display: -ms-flex;
+display: flex;
+flex-direction: row;
+flex-wrap: wrap;
+
+}
+#seis{
+width: 280px;
+
+top: 235px;
+left: 460px;
+position: absolute;
+height: 35px;
+display: -webkit-flex;
+display: -ms-flex;
+display: flex;
+flex-direction: row;
+flex-wrap: wrap;
+
+}
+#siete{
+width: 280px;
+
+top: 283px;
+left: 460px;
+position: absolute;
+height: 35px;
+display: -webkit-flex;
+display: -ms-flex;
+display: flex;
+flex-direction: row;
+flex-wrap: wrap;
+
+}
+#ocho{
+width: 280px;
+top: 325px;
+left: 460px;
+position: absolute;
+height: 35px;
+display: -webkit-flex;
+display: -ms-flex;
+display: flex;
+flex-direction: row;
+flex-wrap: wrap;
+
+}
+#tres li:nth-child(1),#cuatro li:nth-child(1),
+#seis li:nth-child(1),#siete li:nth-child(1),#ocho li:nth-child(1),#cinco li:nth-child(1){
+  margin-left: 0px;
+}
+#tres li,#cuatro li,#cinco li,#seis li,#siete li,#ocho li{
+  height: 30px;
+  width: 30px;
+  margin-left: 18px;
+}
+.contButacas li{
+  line-height: 40px;
+  list-style: none;
+  background-color:rgba(122, 122, 122, 0.69);
+  height: 40px;
+  width: 40px;
+  text-align: center;
+  font-family: monospace;
+  font-weight: bold;
+}
+#flota1{
+  position: absolute;
+  width: 200px;
+  height: 170px;
+  cursor: pointer;
+  border: 1px solid #000;
+  top:20px;
+  left: 200px;
+}
+#reset{
+  border: 1.5px solid rgba(167, 3, 3, 0.69);
+  background-color: rgb(129, 52, 56);
+  color: rgb(42, 42, 42);
+  font-size: 1.1em;
+  border-radius: 2px;
+  font-weight: bold;
+  padding: 5px 10px;
+  cursor: pointer;
+  transition: all 0.19s;
+}
+#reset:hover{
+  border: 1.5px solid rgba(50, 0, 0, 0.7);
+  background-color: rgba(69, 19, 22, 0.97);
+  color: rgb(200, 200, 200);
+  transform: scale(1.04);
+}
+.seleccionada{
+  border: 1px solid rgb(0, 12, 96);
+  background-color: rgb(103, 130, 246) !important;
+}
+.cogida{
+  cursor: not-allowed;
+
+  background-color: rgba(159, 15, 15, 0.74) !important;
+}
+.Modalsillas{
+  width: 80% !important;
+  height: 80vh;
+}
+/* Jquery ui*/
+
+
+#feedback { font-size: 1.4em; }
+ #selectable .ui-selecting  li{ background: #FECA40; }
+
+ #selectable { list-style-type: none; margin: 0; padding: 0; width: 450px; }
