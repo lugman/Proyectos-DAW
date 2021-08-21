@@ -9,7 +9,7 @@ Si hemos hecho login cuando seleccionamos un vuelo para ver la información comp
 
 
 ![Buscar](https://github.com/lugman/Proyectos-DAW/blob/main/dawanair/buscar.png)
-![Ogertas](https://github.com/lugman/Proyectos-DAW/blob/main/dawanair/buscar.png)
+![Ogertas](https://github.com/lugman/Proyectos-DAW/blob/main/dawanair/Ofertas.png)
 <p align="center">
-  <img src="https://github.com/lugman/Proyectos-DAW/blob/main/dawanair/buscar.png">
+  <img src="https://github.com/lugman/Proyectos-DAW/blob/main/dawanair/Vuelos.png">
 </p>
