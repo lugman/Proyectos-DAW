@@ -6,6 +6,6 @@ Another use of this application is to save a story of your day, which you want t
 Images
 ---
 
-[](https://github.com/lugman/Proyectos-DAW/blob/main/Diarytask/the%20main%20layout.png)
-[](https://github.com/lugman/Proyectos-DAW/blob/main/Diarytask/write%20history.png)
-[](https://github.com/lugman/Proyectos-DAW/blob/main/Diarytask/history%20%20layout.png)
+![](https://github.com/lugman/Proyectos-DAW/blob/main/Diarytask/the%20main%20layout.png)
+![](https://github.com/lugman/Proyectos-DAW/blob/main/Diarytask/write%20history.png)
+![](https://github.com/lugman/Proyectos-DAW/blob/main/Diarytask/history%20%20layout.png)
