@@ -5,7 +5,9 @@ Another use of this application is to save a story of your day, which you want t
 
 Images
 ---
+<p align="center">
 <img src="https://github.com/lugman/Proyectos-DAW/blob/main/Diarytask/the%20main%20layout.png" width="300">
 <img src="https://github.com/lugman/Proyectos-DAW/blob/main/Diarytask/write%20history.png" width="300">
 <img src="https://github.com/lugman/Proyectos-DAW/blob/main/Diarytask/history%20%20layout.png" width="600">
+<p>
 
