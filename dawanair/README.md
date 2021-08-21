@@ -10,6 +10,6 @@ Si hemos hecho login cuando seleccionamos un vuelo para ver la información comp
 
 ![Buscar](https://github.com/lugman/Proyectos-DAW/blob/main/dawanair/buscar.png)
 ![Ogertas](https://github.com/lugman/Proyectos-DAW/blob/main/dawanair/Ofertas.png)
-<p align="center">
+<p align="center" style="background-color: #000000;padding: 10px;">
   <img src="https://github.com/lugman/Proyectos-DAW/blob/main/dawanair/Vuelos.png">
 </p>
