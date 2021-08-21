@@ -1,0 +1,344 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="2dp">
+
+        <TextView
+            android:id="@+id/textView"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="4dp"
+            android:gravity="center"
+            android:paddingLeft="20dp"
+            android:text="Categorías"
+            android:textColor="@android:color/background_dark" />
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginRight="3dp"
+            android:layout_weight=".28"
+            android:paddingRight="5dp"
+            android:background="@drawable/border"
+            android:orientation="horizontal">
+
+            <Spinner
+                android:id="@+id/categorias"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="0dp"
+                android:background="@android:color/transparent"
+                android:gravity="center"
+                android:spinnerMode="dialog" />
+
+            <ImageView
+                android:layout_width="10dp"
+                android:layout_height="10dp"
+                android:layout_alignParentRight="true"
+                android:layout_centerVertical="true"
+                android:layout_gravity="center"
+                android:src="@drawable/down" />
+
+        </RelativeLayout>
+
+
+        <TextView
+            android:id="@+id/textView2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="4dp"
+            android:gravity="center"
+            android:paddingLeft="20dp"
+            android:text="Ciudades"
+            android:textAppearance="@style/TextAppearance.AppCompat" />
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginRight="3dp"
+            android:layout_weight=".28"
+            android:paddingRight="5dp"
+            android:background="@drawable/border"
+            android:orientation="horizontal">
+
+
+            <Spinner
+                android:id="@+id/ciudades"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@android:color/transparent"
+                android:gravity="center"
+                android:spinnerMode="dialog" />
+            <ImageView
+                android:layout_width="10dp"
+                android:layout_height="10dp"
+                android:layout_alignParentRight="true"
+                android:layout_centerVertical="true"
+                android:layout_gravity="center"
+                android:src="@drawable/down" />
+
+        </RelativeLayout>
+
+
+        <EditText
+            android:id="@+id/palabras"
+            style="@android:style/Widget.Material.Light.EditText"
+            android:layout_width="match_parent"
+            android:layout_height="60dp"
+            android:ems="10"
+            android:gravity="center"
+            android:hint="Qué buscas"
+            android:inputType="textPersonName"
+            android:selectAllOnFocus="false"
+            android:singleLine="false"
+            android:textAppearance="@style/TextAppearance.AppCompat.Button"
+            android:textColorLink="@android:color/background_dark" />
+
+        <Button
+            android:id="@+id/buscarBtn"
+            style="@style/Widget.AppCompat.Button.Borderless"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@color/colorPrimary"
+            android:text="Buscar"
+            android:textAllCaps="false" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:padding="2dp"
+        android:weightSum="1.0">
+
+        <LinearLayout
+            android:id="@+id/cat-2"
+            android:layout_width="0dip"
+            android:layout_height="match_parent"
+            android:layout_weight=".33"
+            android:orientation="vertical">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="40dp"
+                android:gravity="center"
+                android:text="VEHÍCULOS DE MOTOR"
+                android:textColor="@color/colorPrimary"
+                android:textStyle="bold" />
+
+            <ImageView
+
+                android:layout_width="match_parent"
+                android:layout_height="40dp"
+                app:srcCompat="@drawable/automovil" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/cat-4"
+            android:layout_width="0dip"
+            android:layout_height="match_parent"
+            android:layout_weight=".33"
+            android:orientation="vertical">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="40dp"
+                android:gravity="center"
+                android:text="ELECTRODOMÉSTICOS"
+                android:textColor="@color/colorPrimary"
+                android:textStyle="bold" />
+
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="40dp"
+                app:srcCompat="@drawable/lavadora" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/cat-5"
+            android:layout_width="0dip"
+            android:layout_height="match_parent"
+            android:layout_weight=".33"
+            android:orientation="vertical">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="40dp"
+                android:gravity="center"
+                android:text="INFORMÁTICA Y ELECTRÓNICA"
+                android:textColor="@color/colorPrimary"
+                android:textStyle="bold" />
+
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="40dp"
+                app:srcCompat="@drawable/laptop" />
+        </LinearLayout>
+
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:padding="2dp"
+        android:weightSum="1.0">
+
+        <LinearLayout
+            android:id="@+id/cat-6"
+            android:layout_width="0dip"
+            android:layout_height="match_parent"
+            android:layout_weight=".33"
+            android:orientation="vertical">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="40dp"
+                android:gravity="center"
+                android:text="JUEGOS Y OCIO"
+                android:textColor="@color/colorPrimary"
+                android:textStyle="bold" />
+
+            <ImageView
+
+                android:layout_width="match_parent"
+                android:layout_height="40dp"
+                app:srcCompat="@drawable/consola" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/cat-148"
+            android:layout_width="0dip"
+            android:layout_height="match_parent"
+            android:layout_weight=".33"
+            android:orientation="vertical">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="40dp"
+                android:gravity="center"
+                android:text="MODA"
+                android:textColor="@color/colorPrimary"
+                android:textStyle="bold" />
+
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="40dp"
+                app:srcCompat="@drawable/percha" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/cat-14"
+            android:layout_width="0dip"
+            android:layout_height="match_parent"
+            android:layout_weight=".33"
+            android:orientation="vertical">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="40dp"
+                android:gravity="center"
+                android:text="DEPORTE"
+                android:textColor="@color/colorPrimary"
+                android:textStyle="bold" />
+
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="40dp"
+                app:srcCompat="@drawable/deporte" />
+        </LinearLayout>
+
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:padding="2dp"
+        android:weightSum="1.0">
+
+        <LinearLayout
+            android:id="@+id/cat-11"
+            android:layout_width="0dip"
+            android:layout_height="match_parent"
+            android:layout_weight=".33"
+            android:orientation="vertical">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="40dp"
+                android:gravity="center"
+                android:text="LIBROS Y FORMACIÓN"
+                android:textColor="@color/colorPrimary"
+                android:textStyle="bold" />
+
+            <ImageView
+                android:id="@+id/imageView"
+                android:layout_width="match_parent"
+                android:layout_height="40dp"
+                app:srcCompat="@drawable/libros" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/cat-12"
+            android:layout_width="0dip"
+            android:layout_height="match_parent"
+            android:layout_weight=".33"
+            android:orientation="vertical">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="40dp"
+                android:gravity="center"
+                android:text="INMOBILIARIA"
+                android:textColor="@color/colorPrimary"
+                android:textStyle="bold" />
+
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="40dp"
+                app:srcCompat="@drawable/hogar" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/cat-7"
+            android:layout_width="0dip"
+            android:layout_height="match_parent"
+            android:layout_weight=".33"
+            android:orientation="vertical">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="40dp"
+                android:gravity="center"
+                android:text="OTROS"
+                android:textColor="@color/colorPrimary"
+                android:textStyle="bold" />
+
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="40dp"
+                app:srcCompat="@drawable/varios" />
+        </LinearLayout>
+
+
+    </LinearLayout>
+
+    <Button
+        android:id="@+id/miSeleccion"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@color/colorAccent"
+        android:text="Mi selección" />
+
+
+</LinearLayout>
