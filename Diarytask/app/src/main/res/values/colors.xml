@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ Created by Lugman Sami 2/06/17 18:522/06/17 18:52
+  ~ Copyright (c) 2017.
+  ~ you the  lugman	don't have right to modifify or alter this app.
+  -->
+
+<resources>
+    <color name="colorPrimary">#454545</color>
+    <color name="colorPrimaryDark">#303f9f</color>
+    <color name="colorAccent">#1e1e1e</color>
+    <color name="Gris">#454545</color>
+    <color name="blanco">#ffffff</color>
+    <color name="brown1">#3b2808</color>
+    <color name="brown2">#603116</color>
+    <color name="brown3">#ad8e3400</color>
+    <color name="verde">#ec8fff6a</color>
+    <color name="rojo">#c2f22323</color>
+</resources>

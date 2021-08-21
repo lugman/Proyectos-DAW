@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ Created by Lugman Sami 2/06/17 18:522/06/17 18:52
+  ~ Copyright (c) 2017.
+  ~ you the  lugman	don't have right to modifify or alter this app.
+  -->
+
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="es.com.lugman.www.diarytask.MainActivity">
+
+    <LinearLayout
+        android:layout_width="395dp"
+        android:layout_height="587dp"
+        android:orientation="vertical"
+        tools:layout_editor_absoluteX="8dp"
+        tools:layout_editor_absoluteY="8dp"
+        android:weightSum="1">
+
+        <CalendarView
+            android:id="@+id/calendarView"
+            android:layout_width="375dp"
+            android:layout_height="303dp"
+            android:background="?attr/colorButtonNormal" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="42dp"
+            android:background="@color/Gris"
+            android:orientation="horizontal">
+
+            <TextView
+                android:id="@+id/textView"
+                android:layout_width="308dp"
+                android:layout_height="41dp"
+                android:paddingTop="5dp"
+                android:text="Task For Today"
+                android:textAlignment="center"
+                android:textColor="@color/blanco"
+                android:textSize="24sp"
+                android:textStyle="bold" />
+
+            <ImageView
+                android:id="@+id/imageView"
+                android:layout_width="70dp"
+                android:layout_height="match_parent"
+                app:srcCompat="@drawable/check" />
+
+
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical" />
+
+        </LinearLayout>
+
+
+        <ListView
+            android:id="@+id/listView"
+            android:layout_width="372dp"
+            android:layout_height="164dp"
+            android:layout_weight="1.15"
+            android:background="?attr/colorButtonNormal"
+            android:longClickable="true"
+            android:overScrollMode="always"
+
+            android:paddingBottom="40dp"
+            android:paddingTop="6dp" />
+
+    </LinearLayout>
+
+
+
+
+
+</android.support.constraint.ConstraintLayout>

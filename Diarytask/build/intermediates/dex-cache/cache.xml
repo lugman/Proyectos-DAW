@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/lugman/.android/build-cache/cdf1ea6e0e9606193e4627047fba93195472423c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="/home/lugman/AndroidStudioProjects/Diarytask/app/build/intermediates/pre-dexed/debug/classes_30843184654bc4151ea09331c5e50f72d27807d1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/lugman/.android/build-cache/cd25daecfc41e6aea9800e0466232af1dbce37ef/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/home/lugman/AndroidStudioProjects/Diarytask/app/build/intermediates/pre-dexed/debug/classes_5f9e72c3faa3e2db7c3e24a263ea9bca136f2e87.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/lugman/.android/build-cache/012995e71f4bd44054b897ea8b1ccd158fb74e9d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/home/lugman/AndroidStudioProjects/Diarytask/app/build/intermediates/pre-dexed/debug/classes_31053b76381e5a4340008a0348f334af40d46082.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/lugman/.android/build-cache/075add0e4a02f42a5b051187860ccbad67478fef/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/home/lugman/AndroidStudioProjects/Diarytask/app/build/intermediates/pre-dexed/debug/classes_1bb78e2446df5e7a0a1e421ca4cdcfe750afea0e.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/lugman/AndroidStudioProjects/Diarytask/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e6b0db42164a17d05be2e05f62491920641c13ec">
+        <dex dex="/home/lugman/AndroidStudioProjects/Diarytask/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_f21a35b8a029e04179a2ad659a8c790a761e8aa2/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/lugman/.android/build-cache/10418f2acf3ca83229d43a6d145813155ff4ebd6/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/home/lugman/AndroidStudioProjects/Diarytask/app/build/intermediates/pre-dexed/debug/classes_4c0b51e5bd1123a16bb32cea45fa85618292ab4a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/lugman/.android/build-cache/bad535d6437f994930ec280425a51631bd62970d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="/home/lugman/AndroidStudioProjects/Diarytask/app/build/intermediates/pre-dexed/debug/classes_fea29880ce56971ae01b870b0a89fd666ae2a6de.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/lugman/.android/build-cache/1aa174ba7895e9fadb36f8f78ab98991ae1a1da9/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/home/lugman/AndroidStudioProjects/Diarytask/app/build/intermediates/pre-dexed/debug/classes_0269ad69520ee0cd309b823832ad53f0cbbd93af.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/lugman/.android/build-cache/87d96d21466afcd8d3fa73f99de351983cd64f39/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/home/lugman/AndroidStudioProjects/Diarytask/app/build/intermediates/pre-dexed/debug/classes_8168e3b0962836fef0eb191e3c398a4b988d4ed6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/lugman/.android/build-cache/94519b2651db67676f8487ff6b087ff250f15203/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/lugman/AndroidStudioProjects/Diarytask/app/build/intermediates/pre-dexed/debug/classes_32169e596191579520bed3076fae23e61782b4aa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/lugman/Android/Sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/home/lugman/AndroidStudioProjects/Diarytask/app/build/intermediates/pre-dexed/debug/constraint-layout-solver-1.0.2_f04fa258c184cd2d3bbd94e55d30bffce5563d34.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/lugman/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="/home/lugman/AndroidStudioProjects/Diarytask/app/build/intermediates/pre-dexed/debug/support-annotations-25.3.1_90b4f672ffb19a8a158930458a3ee37d75a23a4f.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/lugman/AndroidStudioProjects/Diarytask/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="/home/lugman/AndroidStudioProjects/Diarytask/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_a0cb4f09e611e672b6eb32b31a5f3f6c7e9e79fd/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/lugman/.android/build-cache/0870981dbad936ac24a0705df6ddeef3ffa56743/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="/home/lugman/AndroidStudioProjects/Diarytask/app/build/intermediates/pre-dexed/debug/classes_652872406387c8adf7dac8d5563646a9447c758a.jar" />
+    </item>
+
+</items>

@@ -1,0 +1,14 @@
+<!--
+  ~ Created by Lugman Sami 2/06/17 18:522/06/17 18:52
+  ~ Copyright (c) 2017.
+  ~ you the  lugman	don't have right to modifify or alter this app.
+  -->
+
+<resources>
+    <string name="app_name">Diary task</string>
+
+    <string name="item1_menu">Diary task</string>
+    <string name="item2_menu">Diary task</string>
+    <string name="purpose">The prososito of this application is that you can have in a fun way a list of tasks of the things to do and also you can create "Small Stories" of that are the stories that you would like to remember of your day</string>
+    <string name="FAQ">Frequently Asked Questions</string>
+</resources>
