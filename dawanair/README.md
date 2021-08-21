@@ -8,8 +8,8 @@ Si hemos hecho login cuando seleccionamos un vuelo para ver la información comp
 ## Imagenes funcionamiento
 
 
-![Buscar](https://github.com/lugman/Proyectos-2018/blob/main/dawanair/buscar.png)
-![Ogertas](https://github.com/lugman/Proyectos-2018/blob/main/dawanair/Ofertas.png)
+![Buscar](https://github.com/lugman/Proyectos-DAW/blob/main/dawanair/buscar.png)
+![Ogertas](https://github.com/lugman/Proyectos-DAW/blob/main/dawanair/buscar.png)
 <p align="center">
-  <img src="https://github.com/lugman/Proyectos-2018/blob/main/dawanair/Vuelos.png">
+  <img src="https://github.com/lugman/Proyectos-DAW/blob/main/dawanair/buscar.png">
 </p>
