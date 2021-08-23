@@ -9,8 +9,8 @@ Esta aplicación cuenta con cuatro pantallas las cuales serán:
 2. Pantalla de búsqueda.
 3. Pantalla del anuncio.
 4. Pantalla de mi selección.
-Vamos a ir explicándolas en orden:
-1. Pantalla principal.
+
+### 1. Pantalla principal. ### 
 Esta aplicación cuando el usuario la inicia este accede a la
 pantalla principal, en la cual podrá buscar un anuncio
 seleccionando uno de los iconos los cuales se corresponde con las
@@ -18,11 +18,9 @@ categorías de su nombre, así como también podrá buscar por una
 categoría, ciudad y palabras, combinándolos de la forma que el
 usuario prefiera.
 También podrá acceder a mi selección.
-<p align="center">
-  <img src="https://github.com/lugman/Proyectos-DAW/blob/main/Aplicacion-movil-proyecto-final-daw/principal.png">
-</p>
 
-2. Pantalla búsqueda.
+
+### 2. Pantalla búsqueda. ###  
 
 En esta pantalla el usuario podrá visualizar los anuncios con los
 criterios seleccionados en la pantalla principal.
@@ -36,11 +34,11 @@ otra clase la cual sería HttpURLConnection lo buscaría, y luego
 para mostrar las imágenes se ha utilizado la librería Picasso con
 lo que se ha conseguido cargar las imágenes externas.
 Re-ofertas. Si seleccionamos un anuncio podemos acceder a su información completa.
-3 Pantalla anuncio
+### 3 Pantalla anuncio. ### 
 Esta pantalla mostraría el resto de información del anuncio, así como la información de
 contacto del usuario vendedor. Desde esta ventana también podría añadir a su lista de
 anuncios, así como quitarlo de su selección mediante la casilla de arriba a la derecha.
-4. Pantalla mi selección.
+### 4. Pantalla mi selección. ### 
 Desde esta pantalla el usuario, podrá ver los anuncios
 que el haya decidido añadir para poder visualizarlos más
 tarde en esta sección, desde esta sección también podrá
@@ -48,3 +46,13 @@ borrar la lista de forma que le aparecerá vacía.
 Como se puede apreciar en la imagen esta pestaña seria
 como la de búsqueda, pero con la opción de vaciar esta
 lista. Y con los anuncios que el haya decidido
+
+*** Imagenes***
+---
+<p align="center">
+  <img src="https://github.com/lugman/Proyectos-DAW/blob/main/Aplicacion-movil-proyecto-final-daw/principal.png">
+</p>
+<p align="center">
+  <img src="https://github.com/lugman/Proyectos-DAW/blob/main/Aplicacion-movil-proyecto-final-daw/busqueda-movil.png">
+   <img src="https://github.com/lugman/Proyectos-DAW/blob/main/Aplicacion-movil-proyecto-final-daw/detalles.png">
+</p>
