@@ -53,6 +53,6 @@ lista. Y con los anuncios que el haya decidido
   <img src="https://github.com/lugman/Proyectos-DAW/blob/main/Aplicacion-movil-proyecto-final-daw/principal.png">
 </p>
 <p align="center">
-  <img src="https://github.com/lugman/Proyectos-DAW/blob/main/Aplicacion-movil-proyecto-final-daw/busqueda-movil.png">
-   <img src="https://github.com/lugman/Proyectos-DAW/blob/main/Aplicacion-movil-proyecto-final-daw/detalles.png">
+  <img src="https://github.com/lugman/Proyectos-DAW/blob/main/Aplicacion-movil-proyecto-final-daw/busqueda-movil.png" width="200px">
+   <img src="https://github.com/lugman/Proyectos-DAW/blob/main/Aplicacion-movil-proyecto-final-daw/detalles.png" width="200px">
 </p>
