@@ -47,7 +47,7 @@ Como se puede apreciar en la imagen esta pestaña seria
 como la de búsqueda, pero con la opción de vaciar esta
 lista. Y con los anuncios que el haya decidido
 
-*** Imagenes***
+***Imagenes***
 ---
 <p align="center">
   <img src="https://github.com/lugman/Proyectos-DAW/blob/main/Aplicacion-movil-proyecto-final-daw/principal.png">
